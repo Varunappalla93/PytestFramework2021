@@ -33,13 +33,13 @@ class Test_CarWale(BaseTest):
             chp.gotonewcars().selectHonda()  # to move to next page using method chaining
             title = car.getCarTitle()
             print(('TITLE IS' + title).encode('utf8'))
-            assert title == 'Hondah Cars', 'title is wrong'
+            assert title == 'Honda Cars', 'title is wrong'
 
         elif CarBrand == 'BMW':
             chp.gotonewcars().selectBMW()
             title = car.getCarTitle()
             print(('TITLE IS ' + title).encode('utf8'))
-            assert title == 'BMW Cars', 'title is wrong'
+            assert title == 'BMWm Cars', 'title is wrong'
 
     @pytest.mark.parametrize("CarBrand", [("Honda"),("BMW")])
     def test_getcarnamesandprices(self,CarBrand):
