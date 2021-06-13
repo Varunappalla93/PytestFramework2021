@@ -1,0 +1,155 @@
+{
+  "uid" : "718f020a44c42bde",
+  "name" : "test_getcarnamesandprices[Honda]",
+  "fullName" : "test_carwala.Test_CarWale#test_getcarnamesandprices",
+  "historyId" : "542f8b32ee4224bf005daa8c056403ec",
+  "time" : {
+    "start" : 1623572931436,
+    "stop" : 1623572936280,
+    "duration" : 4844
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1623572931434,
+      "stop" : 1623572931434,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "get_browser",
+    "time" : {
+      "start" : 1623572902759,
+      "stop" : 1623572922701,
+      "duration" : 19942
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3c6b40c14631362b",
+      "name" : "log",
+      "source" : "3c6b40c14631362b.txt",
+      "type" : "text/plain",
+      "size" : 306
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1623572936285,
+      "stop" : 1623572936285,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "get_browser::0",
+    "time" : {
+      "start" : 1623572940756,
+      "stop" : 1623572940995,
+      "duration" : 239
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('log_on_failure', 'get_browser')"
+  }, {
+    "name" : "suite",
+    "value" : "test_carwala"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_CarWale"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-ELE4DCA"
+  }, {
+    "name" : "thread",
+    "value" : "9252-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_carwala"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CarBrand",
+    "value" : "'Honda'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "b83be78a497edb9e",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModel-Arora/14/allure/#testresult/b83be78a497edb9e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623572931436,
+          "stop" : 1623572936280,
+          "duration" : 4844
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.usefixtures('log_on_failure', 'get_browser')" ]
+  },
+  "source" : "718f020a44c42bde.json",
+  "parameterValues" : [ "'Honda'" ]
+}

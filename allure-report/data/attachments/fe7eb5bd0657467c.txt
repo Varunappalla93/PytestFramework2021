@@ -1,0 +1,4 @@
+INFO     TestCases.test_carwala:test_carwala.py:46 ***Cars names and prices test***
+INFO     Pages.BasePage:BasePage.py:62 Moving to an element newCar_xpath
+INFO     Pages.BasePage:BasePage.py:26 Clicking on element :findNewCars_xpath
+INFO     Pages.BasePage:BasePage.py:26 Clicking on element :Bmw_xpath

@@ -1,0 +1,95 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-ELE4DCA",
+    "children" : [ {
+      "name" : "6936-MainThread",
+      "children" : [ {
+        "name" : "test_gotonewcar",
+        "uid" : "571dda4d5ca417f7",
+        "parentUid" : "b8b22e6bccbea6ac044f4dfcb88c4981",
+        "status" : "broken",
+        "time" : {
+          "start" : 1623573107944,
+          "stop" : 1623573118289,
+          "duration" : 10345
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_selectcar[BMW]",
+        "uid" : "4f1f98f81af1c8f",
+        "parentUid" : "b8b22e6bccbea6ac044f4dfcb88c4981",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623573118838,
+          "stop" : 1623573121050,
+          "duration" : 2212
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'BMW'" ]
+      } ],
+      "uid" : "b8b22e6bccbea6ac044f4dfcb88c4981"
+    }, {
+      "name" : "9252-MainThread",
+      "children" : [ {
+        "name" : "test_getcarnamesandprices[Honda]",
+        "uid" : "718f020a44c42bde",
+        "parentUid" : "5697dbdbf5c776a2b79c1cff44a3ed70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623572931436,
+          "stop" : 1623572936280,
+          "duration" : 4844
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Honda'" ]
+      }, {
+        "name" : "test_getcarnamesandprices[BMW]",
+        "uid" : "bae8a97f88de8c6e",
+        "parentUid" : "5697dbdbf5c776a2b79c1cff44a3ed70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623572936303,
+          "stop" : 1623572940753,
+          "duration" : 4450
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'BMW'" ]
+      }, {
+        "name" : "test_gotonewcar",
+        "uid" : "e2b095f87c8a1e2d",
+        "parentUid" : "5697dbdbf5c776a2b79c1cff44a3ed70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623572922703,
+          "stop" : 1623572927201,
+          "duration" : 4498
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_selectcar[BMW]",
+        "uid" : "d67ded2e1c30ba30",
+        "parentUid" : "5697dbdbf5c776a2b79c1cff44a3ed70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623572928486,
+          "stop" : 1623572931418,
+          "duration" : 2932
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'BMW'" ]
+      } ],
+      "uid" : "5697dbdbf5c776a2b79c1cff44a3ed70"
+    } ],
+    "uid" : "a3d2d2cc518d35caebdb7937c7d0fa44"
+  } ]
+}

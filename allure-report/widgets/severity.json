@@ -1,0 +1,41 @@
+[ {
+  "uid" : "571dda4d5ca417f7",
+  "name" : "test_gotonewcar",
+  "time" : {
+    "start" : 1623573107944,
+    "stop" : 1623573118289,
+    "duration" : 10345
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bae8a97f88de8c6e",
+  "name" : "test_getcarnamesandprices[BMW]",
+  "time" : {
+    "start" : 1623572936303,
+    "stop" : 1623572940753,
+    "duration" : 4450
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f1f98f81af1c8f",
+  "name" : "test_selectcar[BMW]",
+  "time" : {
+    "start" : 1623573118838,
+    "stop" : 1623573121050,
+    "duration" : 2212
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "718f020a44c42bde",
+  "name" : "test_getcarnamesandprices[Honda]",
+  "time" : {
+    "start" : 1623572931436,
+    "stop" : 1623572936280,
+    "duration" : 4844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

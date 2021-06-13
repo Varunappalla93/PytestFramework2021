@@ -1,0 +1,3 @@
+INFO     TestCases.test_carwala:test_carwala.py:20 ***Inside new car test****
+INFO     Pages.BasePage:BasePage.py:62 Moving to an element newCar_xpath
+INFO     Pages.BasePage:BasePage.py:26 Clicking on element :findNewCars_xpath

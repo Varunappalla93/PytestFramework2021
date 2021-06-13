@@ -1,0 +1,119 @@
+{
+  "d3f923425d295798c1cc17b657f3030c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "4f1f98f81af1c8f",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModel-Arora/15/allure/#testresult/4f1f98f81af1c8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623573118838,
+        "stop" : 1623573121050,
+        "duration" : 2212
+      }
+    }, {
+      "uid" : "c920e68dcca84604",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModel-Arora/14/allure/#testresult/c920e68dcca84604",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623572928486,
+        "stop" : 1623572931418,
+        "duration" : 2932
+      }
+    } ]
+  },
+  "e0cbf7ac2cba3be034b646e415ddede4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "571dda4d5ca417f7",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModel-Arora/15/allure/#testresult/571dda4d5ca417f7",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),'Find New Cars')]\"}\n  (Session info: chrome=91.0.4472.101)",
+      "time" : {
+        "start" : 1623573107944,
+        "stop" : 1623573118289,
+        "duration" : 10345
+      }
+    }, {
+      "uid" : "a6dcb5c6f5fe397f",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModel-Arora/14/allure/#testresult/a6dcb5c6f5fe397f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623572922703,
+        "stop" : 1623572927201,
+        "duration" : 4498
+      }
+    } ]
+  },
+  "542f8b32ee4224bf005daa8c056403ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "718f020a44c42bde",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModel-Arora/15/allure/#testresult/718f020a44c42bde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623572931436,
+        "stop" : 1623572936280,
+        "duration" : 4844
+      }
+    }, {
+      "uid" : "b83be78a497edb9e",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModel-Arora/14/allure/#testresult/b83be78a497edb9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623572931436,
+        "stop" : 1623572936280,
+        "duration" : 4844
+      }
+    } ]
+  },
+  "2a233906f0d574697db66e7af5e4d393" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "bae8a97f88de8c6e",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModel-Arora/15/allure/#testresult/bae8a97f88de8c6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623572936303,
+        "stop" : 1623572940753,
+        "duration" : 4450
+      }
+    }, {
+      "uid" : "ec89ee2e99ffa6a0",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModel-Arora/14/allure/#testresult/ec89ee2e99ffa6a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623572936303,
+        "stop" : 1623572940753,
+        "duration" : 4450
+      }
+    } ]
+  }
+}

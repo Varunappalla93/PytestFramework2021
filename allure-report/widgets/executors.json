@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:8080/",
+  "buildOrder" : 15,
+  "buildName" : "PageObjectModel-Arora #15",
+  "buildUrl" : "http://localhost:8080/job/PageObjectModel-Arora/15/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:8080/job/PageObjectModel-Arora/15/allure"
+} ]
