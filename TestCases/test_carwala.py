@@ -33,7 +33,7 @@ class Test_CarWale(BaseTest):
             chp.gotonewcars().selectHonda()  # to move to next page using method chaining
             title = car.getCarTitle()
             print(('TITLE IS' + title).encode('utf8'))
-            assert title == 'Honda Cars', 'title is wrong'
+            assert title == 'Hondah Cars', 'title is wrong'
 
         elif CarBrand == 'BMW':
             chp.gotonewcars().selectBMW()
