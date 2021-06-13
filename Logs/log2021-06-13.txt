@@ -66,3 +66,97 @@
 2021-06-13 14:01:59,338 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
 2021-06-13 14:02:00,470 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
 2021-06-13 14:02:01,060 - test_carwala.py:[46] - [INFO] - ***Cars names and prices test***
+2021-06-13 15:23:29,018 - test_carwala.py:[20] - [INFO] - ***Inside new car test****
+2021-06-13 15:23:31,193 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:23:33,620 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:23:35,027 - test_carwala.py:[46] - [INFO] - ***Cars names and prices test***
+2021-06-13 15:23:35,427 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:23:35,867 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:23:41,569 - BasePage.py:[26] - [INFO] - Clicking on element :honda_xpath
+2021-06-13 15:24:20,965 - test_carwala.py:[46] - [INFO] - ***Cars names and prices test***
+2021-06-13 15:24:21,338 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:24:23,854 - test_carwala.py:[28] - [INFO] - ***Cars select test***
+2021-06-13 15:24:24,272 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:24:24,932 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:24:33,813 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
+2021-06-13 15:28:18,979 - test_carwala.py:[28] - [INFO] - ***Cars select test***
+2021-06-13 15:28:21,374 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:28:23,258 - test_carwala.py:[28] - [INFO] - ***Cars select test***
+2021-06-13 15:28:23,659 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:28:27,056 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:28:33,201 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
+2021-06-13 15:30:04,312 - test_carwala.py:[28] - [INFO] - ***Cars select test***
+2021-06-13 15:30:05,378 - test_carwala.py:[28] - [INFO] - ***Cars select test***
+2021-06-13 15:30:05,910 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:30:06,384 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:30:06,830 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:30:07,930 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:30:09,882 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
+2021-06-13 15:30:12,711 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
+2021-06-13 15:32:03,019 - test_carwala.py:[28] - [INFO] - ***Cars select test***
+2021-06-13 15:32:03,813 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:32:05,215 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:32:06,676 - test_carwala.py:[28] - [INFO] - ***Cars select test***
+2021-06-13 15:32:07,772 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:32:08,088 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
+2021-06-13 15:32:08,427 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:32:12,857 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
+2021-06-13 15:33:15,827 - test_carwala.py:[20] - [INFO] - ***Inside new car test****
+2021-06-13 15:33:16,470 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:33:17,191 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:33:19,269 - test_carwala.py:[20] - [INFO] - ***Inside new car test****
+2021-06-13 15:33:21,061 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:33:22,676 - test_carwala.py:[28] - [INFO] - ***Cars select test***
+2021-06-13 15:33:23,157 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:33:23,429 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:33:36,765 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:33:45,237 - test_carwala.py:[28] - [INFO] - ***Cars select test***
+2021-06-13 15:33:45,606 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:33:46,639 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:33:48,352 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
+2021-06-13 15:34:32,863 - test_carwala.py:[46] - [INFO] - ***Cars names and prices test***
+2021-06-13 15:34:33,214 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:34:33,446 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:35:01,787 - test_carwala.py:[46] - [INFO] - ***Cars names and prices test***
+2021-06-13 15:35:02,120 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:35:02,476 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:38:30,948 - test_carwala.py:[20] - [INFO] - ***Inside new car test****
+2021-06-13 15:38:31,260 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:38:31,404 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:38:49,081 - test_carwala.py:[20] - [INFO] - ***Inside new car test****
+2021-06-13 15:38:49,365 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:38:50,154 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:39:23,469 - test_carwala.py:[28] - [INFO] - ***Cars select test***
+2021-06-13 15:39:23,784 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:39:23,964 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:39:25,281 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
+2021-06-13 15:40:24,544 - test_carwala.py:[20] - [INFO] - ***Inside new car test****
+2021-06-13 15:40:24,841 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:40:25,012 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:40:54,557 - test_carwala.py:[20] - [INFO] - ***Inside new car test****
+2021-06-13 15:40:54,851 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:40:55,384 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:41:20,169 - test_carwala.py:[28] - [INFO] - ***Cars select test***
+2021-06-13 15:41:20,514 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:41:20,705 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:41:22,186 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
+2021-06-13 15:41:45,025 - test_carwala.py:[28] - [INFO] - ***Cars select test***
+2021-06-13 15:41:45,328 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:41:45,869 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:41:46,271 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
+2021-06-13 15:42:13,411 - test_carwala.py:[46] - [INFO] - ***Cars names and prices test***
+2021-06-13 15:42:13,764 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:42:13,959 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:42:14,769 - BasePage.py:[26] - [INFO] - Clicking on element :honda_xpath
+2021-06-13 15:42:34,748 - test_carwala.py:[46] - [INFO] - ***Cars names and prices test***
+2021-06-13 15:42:35,051 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:42:35,206 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:42:35,892 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
+2021-06-13 15:43:03,619 - test_carwala.py:[46] - [INFO] - ***Cars names and prices test***
+2021-06-13 15:43:03,935 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:43:04,456 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:43:05,183 - BasePage.py:[26] - [INFO] - Clicking on element :honda_xpath
+2021-06-13 15:43:32,676 - test_carwala.py:[46] - [INFO] - ***Cars names and prices test***
+2021-06-13 15:43:32,960 - BasePage.py:[62] - [INFO] - Moving to an element newCar_xpath
+2021-06-13 15:43:33,474 - BasePage.py:[26] - [INFO] - Clicking on element :findNewCars_xpath
+2021-06-13 15:43:33,996 - BasePage.py:[26] - [INFO] - Clicking on element :Bmw_xpath
