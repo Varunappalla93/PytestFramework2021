@@ -6,6 +6,7 @@ import pytest
 from webdriver_manager.firefox import GeckoDriverManager
 from Utilities import configReader
 
+
 @pytest.hookimpl(hookwrapper=True, tryfirst=True)
 def pytest_runtest_makereport(item, call):
     outcome = yield
@@ -13,8 +14,9 @@ def pytest_runtest_makereport(item, call):
     setattr(item, "rep_" + rep.when, rep)
     return rep
 
+
 @pytest.fixture()
-def log_on_failure(request,get_browser):
+def log_on_failure(request, get_browser):
     yield
     item = request.node
     driver = get_browser
@@ -23,18 +25,16 @@ def log_on_failure(request,get_browser):
 
 
 # # Params fixture, to run all tests on firefox and chrome
-@pytest.fixture(params=["chrome","firefox"],scope="function") # function-new browser for every test
+@pytest.fixture(params=["chrome", "firefox"], scope="function")  # function-new browser for every test
 def get_browser(request):
-    remote_url="http://localhost:4444/wd/hub"
-    if request.param=="chrome":
+    remote_url = "http://localhost:4444/wd/hub"
+    if request.param == "chrome":
         # driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
-        # for grid execution
-        driver=webdriver.Remote(command_executor=remote_url,desired_capabilities={"browserName":"chrome"})
+        driver = webdriver.Remote(command_executor=remote_url, desired_capabilities={"browserName": "chrome"})
 
     if request.param == "firefox":
         # driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
-        # for grid execution
-        driver=webdriver.Remote(command_executor=remote_url,desired_capabilities={"browserName":"Firefox"})
+        driver = webdriver.Remote(command_executor=remote_url, desired_capabilities={"browserName": "firefox"})
 
     request.cls.driver = driver
     driver.get(configReader.readconfig("basic info", "baseurl"))
